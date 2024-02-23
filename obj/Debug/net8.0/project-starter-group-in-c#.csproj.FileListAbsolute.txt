@@ -1,0 +1,14 @@
+E:\greekbrain codes\project-starter-group-in-c#\obj\Debug\net8.0\project-starter-group-in-c#.GeneratedMSBuildEditorConfig.editorconfig
+E:\greekbrain codes\project-starter-group-in-c#\obj\Debug\net8.0\project-starter-group-in-c#.AssemblyInfoInputs.cache
+E:\greekbrain codes\project-starter-group-in-c#\obj\Debug\net8.0\project-starter-group-in-c#.AssemblyInfo.cs
+E:\greekbrain codes\project-starter-group-in-c#\obj\Debug\net8.0\project-starter-group-in-c#.csproj.CoreCompileInputs.cache
+E:\greekbrain codes\project-starter-group-in-c#\bin\Debug\net8.0\project-starter-group-in-c#.exe
+E:\greekbrain codes\project-starter-group-in-c#\bin\Debug\net8.0\project-starter-group-in-c#.deps.json
+E:\greekbrain codes\project-starter-group-in-c#\bin\Debug\net8.0\project-starter-group-in-c#.runtimeconfig.json
+E:\greekbrain codes\project-starter-group-in-c#\bin\Debug\net8.0\project-starter-group-in-c#.dll
+E:\greekbrain codes\project-starter-group-in-c#\bin\Debug\net8.0\project-starter-group-in-c#.pdb
+E:\greekbrain codes\project-starter-group-in-c#\obj\Debug\net8.0\project-starter-group-in-c#.dll
+E:\greekbrain codes\project-starter-group-in-c#\obj\Debug\net8.0\refint\project-starter-group-in-c#.dll
+E:\greekbrain codes\project-starter-group-in-c#\obj\Debug\net8.0\project-starter-group-in-c#.pdb
+E:\greekbrain codes\project-starter-group-in-c#\obj\Debug\net8.0\project-starter-group-in-c#.genruntimeconfig.cache
+E:\greekbrain codes\project-starter-group-in-c#\obj\Debug\net8.0\ref\project-starter-group-in-c#.dll
