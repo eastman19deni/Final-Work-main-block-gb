@@ -35,5 +35,21 @@ internal class Program
                 WriteLine($"{com} - That command don't have sorry try again");
                 break;
         }
+        
+        int lenNewArray = 0;
+        for (int i = 0; i < array.Length - 1; i++)
+        {
+            if (array[i].Length <= 3) lenNewArray++;
+        }
+        string[] newArray = new string[lenNewArray];
+        int idx = 0;
+
+        for (int i = 0; i <= lenNewArray - 1; i++)
+        {
+            if (array[i].Length <= 3)
+            {
+                newArray[idx++] = array[i];
+            }
+        }
     }
 }
