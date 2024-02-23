@@ -35,7 +35,7 @@ internal class Program
                 WriteLine($"{com} - That command don't have sorry try again");
                 break;
         }
-        
+
         int lenNewArray = 0;
         for (int i = 0; i < array.Length - 1; i++)
         {
@@ -50,6 +50,19 @@ internal class Program
             {
                 newArray[idx++] = array[i];
             }
+        }
+        PrintArray(array);
+        Write("-> ");
+        PrintArray(newArray);
+
+        void PrintArray(string[] array)
+        {
+            Write("[ ");
+            for (int i = 0; i < array.Length; i++)
+            {
+                Write($"{array[i]}");
+            }
+            Write("] ");
         }
     }
 }
