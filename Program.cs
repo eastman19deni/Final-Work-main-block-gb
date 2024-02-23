@@ -19,6 +19,5 @@ internal class Program
 
         Write("Enter command: ");
         com = Convert.ToInt16(ReadLine());
-
     }
 }
