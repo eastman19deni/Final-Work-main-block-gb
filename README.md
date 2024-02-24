@@ -11,4 +11,8 @@ _Примеры:
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []_
-
+# Решение
+1. Блок схема
+![diagram](https://dochub.com/deni12349075/jo3xELpR3Aqaa3eVJBa7nr/diagram-png)
+-
+[web-diagram](https://dochub.com/deni12349075/jo3xELpR3Aqaa3eVJBa7nr/diagram-png)
