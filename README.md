@@ -13,6 +13,11 @@ _Примеры:
 [“Russia”, “Denmark”, “Kazan”] → []_
 # Решение
 1. Блок схема
-![diagram](https://dochub.com/deni12349075/jo3xELpR3Aqaa3eVJBa7nr/diagram-png)
--
+
 [web-diagram](https://dochub.com/deni12349075/jo3xELpR3Aqaa3eVJBa7nr/diagram-png)
+
+![diagrama](/diagram.png)
+-
+# Вывод текст из терминала о запросе
+![image](/image_2024-02-24_02-46-13.png)
+-
